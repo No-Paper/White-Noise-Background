@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1D8F698-C4C4-4619-A53B-A7EA0698E31D}"
 	ProjectSection(SolutionItems) = preProject
 		Icon1.ico = Icon1.ico
+		..\..\..\NetBeansProjects\no-paper.co.uk\public\images\loopy.jpg = ..\..\..\NetBeansProjects\no-paper.co.uk\public\images\loopy.jpg
+		README.md = README.md
 		Loopy\Trayse101-Basic-Filetypes-1-Wav.ico = Loopy\Trayse101-Basic-Filetypes-1-Wav.ico
 	EndProjectSection
 EndProject
